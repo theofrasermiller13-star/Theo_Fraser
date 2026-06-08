@@ -1,4 +1,4 @@
-# Student Course Tracker
+# Landing Page Template
 
 This repository is designed to teach students the foundational technologies of the web from the ground up.
 
